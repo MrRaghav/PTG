@@ -15,13 +15,16 @@ Meet **PTG – Power BI Theme Generator**, a lightweight desktop tool to create 
 ## Download
 Head to [Releases](https://github.com/MrRaghav/PTG/releases/) and grab the latest version: **[Download PTG.exe](https://github.com/MrRaghav/PTG/releases/)**  
 
-No Python installation needed — just download and run!!!
+## Interesting Article
+You can also check an interesting article written on v1.0 on [Medium.com](https://raghvendra-pratap-singh.medium.com/ptg-the-power-bi-theme-generator-v1-0-d5570766df14)
+
+Basically, No Python installation needed — just download and run!!!
 
 ## Possible Future Enhancements (as I get time ☺️)
 - Support for 3 character Hex Codes too
 - _will be added soon_
 - _will be added soon_
 
-Designed for **Power BI Developers** who want to spend less time fiddling with colors and more time delivering insights.
+Designed for **Power BI Developers** who want to spend less time fiddling with themes and more time delivering insights.
 
 <img width="100" height="100" alt="9991 PTG Tool Logo 18Aug25" src="https://github.com/user-attachments/assets/d7c06b03-34c2-42b2-9359-98e2469edbf5" />
